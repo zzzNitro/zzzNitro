@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SmartContractsMKT](https://github.com/zzzNitro/SCMKT_Back)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Solidity** and **MongoDB**
 
 - 💬 Ask me about **react, django, node**
 
