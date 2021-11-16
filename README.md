@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h1 align="center">Hi, I'm Pablo</h1>
+<h3 align="center">A FullStack developer from Chile</h3>
 
 - 🔭 I’m currently working on [SmartContractsMKT](https://github.com/zzzNitro/SCMKT_Back)
 
